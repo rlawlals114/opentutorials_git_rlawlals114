@@ -1,4 +1,10 @@
 <html>
+	<head>
+		<title>
+			Git ¼Ò°³
+		</title>
+
+	</head>
 	<body>
 		<header>
 	 	  <h1>GIT</h1>
