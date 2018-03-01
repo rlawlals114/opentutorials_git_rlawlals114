@@ -9,6 +9,7 @@
 	 	  <h1>GIT</h1>
 		<header>
 		<ul>
+		  <li>sync.egoing</li>
 		  <li>What is Git?</li>
 		  <li>Version</li>
 		  <li>Branch</li>
