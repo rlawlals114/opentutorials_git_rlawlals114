@@ -20,6 +20,7 @@
 		  <li>pull</li>
 		  <li>push.egoing</li>
 		  <li>pull.leezche</li>
+		  <li>conflicht.leezche</li>
 		</ul>	
 	</body>
 </html>
